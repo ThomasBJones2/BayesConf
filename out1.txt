@@ -1,0 +1,20 @@
+Currently on K: 0
+Currently on K: 1
+Currently on K: 2
+Currently on K: 3
+Currently on K: 4
+Currently on K: 5
+Currently on K: 6
+Currently on K: 7
+Currently on K: 8
+Currently on K: 9
+Stimulus Modality[0]: 0.7627952121837571 +/-0.11304236156897014
+
+Stimulus Type[0]: 0.6340963938022762 +/-0.09006992870731523
+
+Response Modality[0]: 0.7737382225617518 +/-0.11430473647957606
+
+Response Type[0]: 0.7564820138581748 +/-0.14332493548649788
+
+Instructions [0]: 0.6713861860533686 +/-0.1372820928703492
+
